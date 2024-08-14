@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I am Daniel del Río</h1>
 <h3 align="center">Un apasionado fullstack developer el cual esta enamorado de la informatica.</h3>
 </div>
-<div> <img src="imagencv.gif" width="40" height="40"/></div>
+<div> <img src="imagencv.gif" width="40" height="40" justify-content:"center"/></div>
 
 ## About me:
 
