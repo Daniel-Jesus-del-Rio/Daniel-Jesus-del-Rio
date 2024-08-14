@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I am Daniel del Río 😄</h1>
 <h3 align="center">Software developer looking for opportunities to improve their skills</h3>
 </div>
-<div align="center"><img src="imagencv.gif"  height="180" justify-content:"center"/></div>
+<div align="center"><img src="imagencv.gif" width="200" height="180" justify-content:"center"/></div>
 
 
 ## About me:
