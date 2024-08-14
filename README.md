@@ -2,10 +2,13 @@
 <h1 align="center">Hi, I am Daniel del Río👋</h1>
 </div>
 
+##About me:
+
+- 📖 I’m currently studying Bachelor´s Degree of Techniques for software application development.
 <!--
 **Daniel-Jesus-del-Rio/Daniel-Jesus-del-Rio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-About me:
+##About me:
 
 - 📖 I’m currently studying Bachelor´s Degree of Techniques for software application development.
 - 🌱 I’m currently learning ...
