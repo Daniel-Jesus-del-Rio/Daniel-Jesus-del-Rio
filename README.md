@@ -1,5 +1,6 @@
 <div align="center">
 <h1 align="center">Hi, I am Daniel del Río</h1>
+<h3 align="center">Un apasionado fullstack developer el cual esta enamorado de la informatica.</h3>
 </div>
 
 ## About me:
